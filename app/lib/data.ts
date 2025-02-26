@@ -164,7 +164,7 @@ export const addresses = [
   },
 ];
 
-const addressDetails: AddressDetail[] = [
+export const addressDetails: AddressDetail[] = [
   {
     id: "97964e30-6086-4ba6-b899-66a33068e940",
     a: false,
